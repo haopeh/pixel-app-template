@@ -1,7 +1,7 @@
 {
   "name": "DEMOAPP",
   "vendor": "vtexsgdemostore",
-  "version": "0.0.1",
+  "version": "1.0.0-beta.0",
   "title": "DEMPAPP",
   "description": "This is a demo app",
   "billingOptions": {
